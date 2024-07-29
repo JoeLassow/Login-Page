@@ -1,4 +1,4 @@
-# Login / SIgn up Page
+# Login / Sign up Page
 
 This is a secrets app which allows verified users to login and share their secrets anonymously. It uses the passport middleare for Node.JS to handle all the aunthetication.
 
